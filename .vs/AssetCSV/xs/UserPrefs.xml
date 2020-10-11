@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{ADB79EE4-956D-4819-A52B-2D382AB1BA11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets.cs">
+    <Files>
+      <File FileName="Assets.cs" Line="13" Column="68" />
+      <File FileName="CsvParser.cs" Line="31" Column="67" />
+      <File FileName="AssetParser.cs" Line="12" Column="57" />
+      <File FileName="Program.cs" Line="30" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssetCSV" expanded="True">
+            <Node name="AssetCSV" expanded="True">
+              <Node name="Assets.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AssetCSV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

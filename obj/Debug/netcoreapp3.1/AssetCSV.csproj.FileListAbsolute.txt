@@ -1,0 +1,12 @@
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.csprojAssemblyReference.cache
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.AssemblyInfoInputs.cache
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.AssemblyInfo.cs
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/bin/Debug/netcoreapp3.1/AssetCSV.deps.json
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/bin/Debug/netcoreapp3.1/AssetCSV.runtimeconfig.json
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/bin/Debug/netcoreapp3.1/AssetCSV.runtimeconfig.dev.json
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/bin/Debug/netcoreapp3.1/AssetCSV.dll
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/bin/Debug/netcoreapp3.1/AssetCSV.pdb
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.dll
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.pdb
+/Users/nick/Desktop/C#Projects/AssetCSV/AssetCSV/obj/Debug/netcoreapp3.1/AssetCSV.genruntimeconfig.cache
